@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: reports.Tests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 18.536 s <<< FAILURE! - in reports.Tests
+loginTest(reports.Tests)  Time elapsed: 2.79 s  <<< FAILURE!
+java.lang.AssertionError: expected [nopCommerce demo store Login] but found [nopCommerce demo store. Login]
+	at reports.Tests.loginTest(Tests.java:63)
+
